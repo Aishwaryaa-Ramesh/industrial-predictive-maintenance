@@ -1,0 +1,5 @@
+{
+    "selected_model": "Random Forest",
+    "decision_threshold": 0.4795900438672445,
+    "target_column": "Machine failure"
+}
